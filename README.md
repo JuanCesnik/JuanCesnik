@@ -13,7 +13,7 @@ Eu sou Juan, um(a) entusiasta de front-end apaixonado(a) por transformar linhas 
 
 Atualmente, estou focado(a) em um ERP simples basicas facil e muito intuitivo para ajudar todas as pessoas de todas as idades que querem adminitrar seu negocio de uma maneira facil e eficaz sem varios botões ou varias abas complexas, onde busco aplicar meu conhecimento e contribuir para a comunidade de desenvolvedores. Adoro resolver desafios e explorar novas tecnologias para expandir meu horizonte no vasto universo da programação.
 
-![Top Juan](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCesnik&hide_progress=true)
+
 
 ## Onde me encontrar:
 
